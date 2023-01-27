@@ -60,6 +60,7 @@ img {
 .card__img {
   width: 96px;
   border-radius: 50%;
+  height: 98px;;
 }
 
 .card__border {
